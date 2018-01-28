@@ -10,7 +10,7 @@
  #define PROGMEM
 #endif
 
-// Standard ASCII 5x7 font UTF8
+// UTF8 font
 
 static const unsigned char font[] PROGMEM = {
 0x00, 0x00, 0x00, 0x00, 0x00, 
